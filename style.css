@@ -1,0 +1,21 @@
+* {
+
+}
+
+/*style for body*/
+
+body {
+	background-color: #FAF7FE;
+}
+
+/*style for container*/
+.container{
+	background-color: #B6BBC4;
+	color: white;
+
+}
+
+/*style for img*/
+img{
+	width: 150px;
+}
